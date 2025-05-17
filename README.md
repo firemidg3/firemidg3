@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @firemidg3
+- 👀 I’m interested in podcasts, YouTube videos, and insights that support my career growth...
+- 🌱 I’m currently learning and working with Laravel, PHP, and Javascript...
+- ⚡ Fun fact: I love to watch anime and play videogames...
+
+<!---
+firemidg3/firemidg3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
